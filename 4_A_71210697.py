@@ -1,8 +1,8 @@
 k = input("Masukan artikel yang ingin dipindai:" )
-l = input("nama klub bola:" )
-m = input("Masukan skor yang ingin dicari:")
+l = input("nama klub :" )
+m = input(" skor :")
 
-if l + k and m+k :
+if l + k :
     print("Hasil pencarian ditemukan")
 elif l+k:
     print("Hanya kata",l, "yang ditemukan pada artikel ini")
